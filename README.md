@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spiritsoul22
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning web designing and other languages
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
